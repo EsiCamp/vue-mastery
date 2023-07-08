@@ -1,1 +1,1 @@
-#This is a simple task for learning Vue
+# This is a simple task for learning Vue
