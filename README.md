@@ -1,1 +1,1 @@
-# This is a simple task for learning Vue
+# This repository talks about doing Vue Mastery's challenges.
