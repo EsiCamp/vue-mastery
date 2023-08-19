@@ -29,3 +29,7 @@
   height: 40px;
   margin-top: 5px;
 }
+
+.activeTab {
+  color: #2b6c6c;
+}
